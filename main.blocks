@@ -1,4 +1,18 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <variables></variables>
-  <block type="pxt-on-start" x="0" y="0"></block>
-</xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="NBK`T.(KF0lZm~GxIIRN">mySprite</variable><variable type="KIND_SpriteKind" id="hlN*dZw@PnDK]VR(+i[0">Player</variable><variable type="KIND_SpriteKind" id="JSWpFbu8!tV2Vwssm{8J">Projectile</variable><variable type="KIND_SpriteKind" id="C|F%x[XPKzFD.fRq)ua4">Food</variable><variable type="KIND_SpriteKind" id="v;9I}ANH{}V7WfZleZ5D">Enemy</variable></variables><block type="pxt-on-start" id="WvoZP)[7~ZMURb?,_)vu" x="0" y="0"><statement name="HANDLER"><block type="variables_set" id="6d.9=jfL`?J8e96MV:*2"><field name="VAR" id="NBK`T.(KF0lZm~GxIIRN">mySprite</field><value name="VALUE"><shadow type="math_number" id="t5,kF9l3jSm4b[k;Jv8T"><field name="NUM">0</field></shadow><block type="spritescreate" id="zU5emg%4;A@OY)i{fFp3"><value name="img"><shadow type="screen_image_picker" id="gH[Y?jrzuY/x_5|6xsB_"><field name="img">img`
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f 1 f f f f f f f 1 f f f 
+f f f f 1 f f f f f f f 1 f f f 
+f f f f 1 f f f f f f f 1 f f f 
+f f f f 1 f f f f f f f 1 f f f 
+f f f f 1 f f f f f f f 1 f f f 
+f f f f 1 f f f f f f f 1 f f f 
+f f f f f f f f f f f f 1 f f f 
+f f f f f f f f f f f f 1 f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f 1 1 1 1 1 1 1 f f f f 
+f f f f f f f 1 1 f f 1 f f f f 
+f f f f f f f f 1 f f 1 f f f f 
+f f f f f f f f f f f f f f f f 
+`</field><data>{"commentRefs":[],"fieldData":{"img":null}}</data></shadow></value><value name="kind"><shadow type="spritekind" id=":MyaB#m7REd95$1`{Zl3"><field name="MEMBER">Player</field></shadow></value></block></value></block></statement></block></xml>
