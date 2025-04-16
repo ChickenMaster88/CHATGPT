@@ -1,4 +1,4 @@
-let mySprite = sprites.create(img`
+let SPOOKY = sprites.create(img`
     f f f f f f f f f f f f f f f f 
     f f f f f f f f f f f f f f f f 
     f f f f 1 f f f f f f f 1 f f f 
